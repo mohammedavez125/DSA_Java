@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="">
+    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode 1768">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,20 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MergeStringAlternately">
+  <component name="RunManager" selected="Application.GcdOfStrings">
+    <configuration name="GcdOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.GcdOfStrings" />
+      <module name="DSA_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergeStringAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.MergeStringAlternately" />
       <module name="DSA_Java" />
@@ -63,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GcdOfStrings" />
         <item itemvalue="Application.MergeStringAlternately" />
         <item itemvalue="Application.UniqueNumberofOccurrences" />
       </list>
@@ -84,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705456108912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leetcode 1768">
+      <created>1705686774830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705686774830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deer" />
-    <option name="LAST_COMMIT_MESSAGE" value="deer" />
+    <MESSAGE value="leetcode 1768" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 1768" />
   </component>
 </project>
