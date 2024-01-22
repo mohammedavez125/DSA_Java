@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode gcd of strings and house robber">
-      <change afterPath="$PROJECT_DIR$/src/programs/kidsWithCandies.java" afterDir="false" />
+    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode kidsWithCandies">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/ReverseVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/programs/kidsWithCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/KidsWithCandies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.GcdOfStrings">
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.CanPlaceFlowers" />
+      <module name="DSA_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GcdOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.GcdOfStrings" />
       <module name="DSA_Java" />
@@ -91,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CanPlaceFlowers" />
         <item itemvalue="Application.GcdOfStrings" />
         <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.MergeStringAlternately" />
@@ -135,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705906164130</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="leetcode kidsWithCandies">
+      <created>1705914546943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705914546943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +178,7 @@
     <MESSAGE value="leetcode 1768" />
     <MESSAGE value="leetcode gcd of strings" />
     <MESSAGE value="leetcode gcd of strings and house robber" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode gcd of strings and house robber" />
+    <MESSAGE value="leetcode kidsWithCandies" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode kidsWithCandies" />
   </component>
 </project>
