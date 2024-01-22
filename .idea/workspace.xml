@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode gcd of strings and house robber">
-      <change afterPath="$PROJECT_DIR$/src/programs/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/kidsWithCandies.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/GcdOfStrings.java" afterDir="false" />
     </list>
@@ -36,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HouseRobber">
+  <component name="RunManager" selected="Application.GcdOfStrings">
     <configuration name="GcdOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.GcdOfStrings" />
       <module name="DSA_Java" />
@@ -91,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.GcdOfStrings" />
+        <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.MergeStringAlternately" />
         <item itemvalue="Application.UniqueNumberofOccurrences" />
       </list>
@@ -128,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705752300435</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="leetcode gcd of strings and house robber">
+      <created>1705906164130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705906164130</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

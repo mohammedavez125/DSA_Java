@@ -8,7 +8,7 @@ package programs;
 
 public class GcdOfStrings {
     public static void main(String[] args){
-        String answer = gcdOfStrings("ABABAB", "AB");
+        String answer = gcdOfStrings("LEET", "CODE");
         System.out.println(answer);
     }
 
