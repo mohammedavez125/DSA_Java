@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode kidsWithCandies">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/programs/ReverseVowels.java" afterDir="false" />
+    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcodes">
+      <change afterPath="$PROJECT_DIR$/src/programs/ProductExceptSelf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/programs/kidsWithCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programs/KidsWithCandies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +31,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ProductExceptSelf">
     <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.CanPlaceFlowers" />
       <module name="DSA_Java" />
@@ -92,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniqueNumberofOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="programs.UniqueNumberofOccurrences" />
+    <configuration name="ProductExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.ProductExceptSelf" />
       <module name="DSA_Java" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.CanPlaceFlowers" />
         <item itemvalue="Application.GcdOfStrings" />
         <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.MergeStringAlternately" />
-        <item itemvalue="Application.UniqueNumberofOccurrences" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705914546943</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leetcodes">
+      <created>1705924181969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705924181969</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="leetcode gcd of strings" />
     <MESSAGE value="leetcode gcd of strings and house robber" />
     <MESSAGE value="leetcode kidsWithCandies" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode kidsWithCandies" />
+    <MESSAGE value="leetcodes" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcodes" />
   </component>
 </project>
