@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcodes">
-      <change afterPath="$PROJECT_DIR$/src/programs/ProductExceptSelf.java" afterDir="false" />
+    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode productExceptSelf">
+      <change afterPath="$PROJECT_DIR$/src/programs/IncreasingTriplet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,18 +29,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ProductExceptSelf">
+}</component>
+  <component name="RunManager">
     <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="programs.CanPlaceFlowers" />
       <module name="DSA_Java" />
@@ -167,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705924181969</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="leetcode productExceptSelf">
+      <created>1706196533361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706196533361</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +195,7 @@
     <MESSAGE value="leetcode gcd of strings and house robber" />
     <MESSAGE value="leetcode kidsWithCandies" />
     <MESSAGE value="leetcodes" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcodes" />
+    <MESSAGE value="leetcode productExceptSelf" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode productExceptSelf" />
   </component>
 </project>
