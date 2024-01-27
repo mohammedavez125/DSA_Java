@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode productExceptSelf">
-      <change afterPath="$PROJECT_DIR$/src/programs/IncreasingTriplet.java" afterDir="false" />
+    <list default="true" id="48b14859-9aa8-458e-9004-078f537eae47" name="Changes" comment="leetcode increasingTriplet">
+      <change afterPath="$PROJECT_DIR$/src/programs/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/programs/StringCompress.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA_Java.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/programs/MoveZeroes.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -108,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.CanPlaceFlowers" />
+        <item itemvalue="Application.ProductExceptSelf" />
         <item itemvalue="Application.GcdOfStrings" />
         <item itemvalue="Application.HouseRobber" />
         <item itemvalue="Application.MergeStringAlternately" />
@@ -174,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706196533361</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="leetcode increasingTriplet">
+      <created>1706282630862</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706282630862</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -196,6 +209,7 @@
     <MESSAGE value="leetcode kidsWithCandies" />
     <MESSAGE value="leetcodes" />
     <MESSAGE value="leetcode productExceptSelf" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode productExceptSelf" />
+    <MESSAGE value="leetcode increasingTriplet" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode increasingTriplet" />
   </component>
 </project>
